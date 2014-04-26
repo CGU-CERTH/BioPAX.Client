@@ -1,6 +1,5 @@
 BioPAX.Client
 =============
-
 BioPAXClient is a Java application that can extract information from BioPAX files as well as create modified versions of template BioPAX files. The modified BioPAX files can contain presence or absence flags at their <i>Pathway</i> and/or <i>ProteinReference</i> elements through custom comments that follow a predefined format.
 
 
